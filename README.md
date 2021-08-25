@@ -1,0 +1,2 @@
+# MobGroup
+WIP mod configuration
